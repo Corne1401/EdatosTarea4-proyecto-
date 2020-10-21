@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/corne/E.Datos/Tarea4/PokemonDoubleList.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

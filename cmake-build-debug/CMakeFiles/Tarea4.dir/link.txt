@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Tarea4.dir/PokemonDoubleList.c.o  -o Tarea4 
